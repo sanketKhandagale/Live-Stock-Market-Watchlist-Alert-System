@@ -1,13 +1,19 @@
 # Live-Stock-Market-Watchlist-Alert-System
 
 Project Overview
+
 This is a full-stack web application for stock watchlists, built using React for the frontend and FastAPI for the backend. Users can add, view, and remove stocks from their watchlist, with real-time updates using WebSockets.
 
 Features
+
 User authentication
+
 Add stocks to the watchlist
+
 Remove stocks from the watchlist
+
 Real-time stock price updates using WebSockets
+
 Responsive UI
 
 Tech Stack
